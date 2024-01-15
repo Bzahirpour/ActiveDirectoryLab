@@ -36,8 +36,8 @@ Click next a few times and finish, and we're ready to boot up our first virtual 
 <img src="https://imgur.com/clX0RD3.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 <br />
-Click next, agree to the EULA and select Custom install, then select next again and let it do its thing. This will take a couple of minutes so be patient. :  <br/>
-<img src=".png" height="80%" width="80%" alt="Installation Steps"/>
+Click next, agree to the EULA and select Custom install, then select next again and let it do its thing. This will take a couple of minutes so be patient. The server will start up on its own when the installation is complete and prompt you to enter a password for the administrator account. Once you do you'll be at the login screen from the server. To login you will need to select "input" from the top of the screen, and "keyboard", then insert "Ctrl-alt-del". Now we'll be able to imput the password we just set for the server and login. Server Manager will load automaticly and you will see a prompt on the left of the screen asking if we want to allow the PC to be descoverable on the network, select "yes":  <br/>
+<img src="https://imgur.com/wizaw0U.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 <br />
 :  <br/>
