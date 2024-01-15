@@ -14,7 +14,7 @@ In this guide we're going to walk through how to create an Active Directory home
 <h2>Project walk-through:</h2>
 
 <p align="center">
-First we are going to download a few things <a href="https://www.virtualbox.org/" target="_blank">Virtual Box</a>
+First, we are going to download a few things: <a href="https://www.virtualbox.org/" target="_blank">Virtual Box</a>
 , <a href="https://info.microsoft.com/ww-landing-windows-server-2022.html" target="_blank">Windows Server 2022 ISO</a>
 , and  <a href="https://www.microsoft.com/en-us/software-download/windows10" target="_blank">Windows 10 Pro ISO</a>. On the Windows Server link just fill up the form and click download, and on the Windows 10 link make sure you select the "Create Windows 10 installation media" option. Once we have everything downloaded, we can run the Virtual Box installer and install it on our computer. Next, we're going to run the "Media creation tool" that we downloaded from the windows 10 link. Hit accept on the EULA and on the next screen make sure you select "Create installation media": <br/>
 <img src="https://imgur.com/XuAxpYS.png" height="80%" width="80%" alt="Installation Steps"/>
