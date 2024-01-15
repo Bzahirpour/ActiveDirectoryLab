@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this lab we're going to walk throught how to create an Active Directory home lab enviroment using Virtual Box. Configuring and running throught this lab will definetly help develop your understanding of how Active Directory and Windows networking works, so I highly recommend running throught it a couple of times, ask questions where stuff is unclear, and eventually try to build it on your own without needing this guide. Please let me know if you have any questions!
+In this guide we're going to walk throught how to create an Active Directory home lab enviroment using Virtual Box. Configuring and running throught this lab will definetly help develop your understanding of how Active Directory and Windows networking works, so I highly recommend running through it a couple of times, ask questions where stuff is unclear, and eventually try to build it on your own without needing this guide. Please let me know if you have any questions!
 <br />
 
 
@@ -14,11 +14,13 @@ In this lab we're going to walk throught how to create an Active Directory home 
 <h2>Project walk-through:</h2>
 
 <p align="center">
-First we are going to download Virtual Box, Windows Server 2022, and Windows 10 pro: <br/>
-<img src=""/>
+First we are going to download a few things <a href="https://www.virtualbox.org/" target="_blank">Virtual Box</a>
+, <a href="https://info.microsoft.com/ww-landing-windows-server-2022.html" target="_blank">Windows Server 2022 ISO</a>
+, and  <a href="https://www.microsoft.com/en-us/software-download/windows10" target="_blank">Windows 10 Pro ISO</a>. On the Windows Server link just fill up the form and click download, and on the Windows 10 link make sure you select the "Create Windows 10 installation media" option. Once we have everything downloaded we can run the Virtual Box installer. Next, were going to run the "Media creation tool" that we downloaded from the windows 10 link. Hit accept on the EULA and on the next screen make sure you select "Create installation media": <br/>
+<img src="https://imgur.com/XuAxpYS.png" height="50%" width="50%" alt="Installation Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Click next a few times then select ISO file when you get to the "choose which media to use" section:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
