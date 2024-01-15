@@ -32,16 +32,16 @@ Click next a few times and finish, and we're ready to boot up our first virtual 
 <img src="https://imgur.com/eMJqtu4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Click next, and install and the installer will start running. The next step is important we need to select the second option from the list called "Windows Server Standard Evaluation (Desktop Experience)" otherwise the server won't include a graphical user interface and we will have to interact with it only through the command line.:  <br/>
+<img src="https://imgur.com/clX0RD3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Click next, agree to the EULA and select Custom install, then select next again and let it do its thing. This will take a couple of minutes so be patient. :  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+:  <br/>
+<img src=".png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
