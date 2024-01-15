@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this guide we're going to walk throught how to create an Active Directory home lab enviroment using Virtual Box. Configuring and running throught this lab will definetly help develop your understanding of how Active Directory and Windows networking works, so I highly recommend running through it a couple of times, ask questions where stuff is unclear, and eventually try to build it on your own without needing this guide. Please let me know if you have any questions!
+In this guide we're going to walk through how to create an Active Directory home lab enviroment using Virtual Box. Configuring and running through this lab will definitely help develop your understanding of how Active Directory and Windows networking works, so I highly recommend running through it a couple of times, ask questions where stuff is unclear, and eventually try to build it on your own without needing this guide. Please let me know if you have any questions!
 <br />
 
 
