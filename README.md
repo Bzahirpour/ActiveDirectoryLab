@@ -14,8 +14,8 @@ In this lab we're going to walk throught how to create an Active Directory home 
 <h2>Project walk-through:</h2>
 
 <p align="center">
-First we need to download Virtual Box, Windows Server 2022 and : <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+First we are going to download Virtual Box, Windows Server 2022, and Windows 10 pro: <br/>
+<img src=""/>
 <br />
 <br />
 Select the disk:  <br/>
