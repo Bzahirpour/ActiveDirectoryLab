@@ -24,12 +24,12 @@ Click next a few times then select ISO file when you get to the "choose which me
 <img src="https://imgur.com/fO4eMUl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Next we need to allocate the resources for the virtual machine. I recommend 4GB of RAM, 4 cores, and 50GB of storage if your system can handle it. Adjust the sliders to match the spec or google Windows Server 2022 system requirements to find the minimums if your system doesnt have the resources to spare. Note we can use these same settings for all the virtual machines for this lab: <br/>
+<img src="https://imgur.com/WRtNewT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Click next a few times and finish, and we're ready to boot up our first virtual machine! Select "Windows Server 2022" from the left, and click "start" under the green arrow in the top center of the screen. Now we can run through the Windows Server install just like installing any other OS. If you have never done it before don't worry we're going to do it together:  <br/>
+<img src="https://imgur.com/eMJqtu4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
