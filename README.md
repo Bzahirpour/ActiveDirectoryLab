@@ -21,27 +21,27 @@ First we are going to download a few things <a href="https://www.virtualbox.org/
 <br />
 <br />
 Click next a few times then select ISO file when you get to the "choose which media to use" section. Once we have created the Windows 10 ISO were ready to start setting up our virtual machines. Open up Virtual Box if you don't have it running already and select "new" under the blue star icon in the top middle of the screen. Name the virtual machine "Windows Server 2022", select the ISO for the server from your downloads folder, and click the "Skip Unattended Installation" box. It should look like this:  <br/>
-<img src="https://imgur.com/fO4eMUl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/fO4eMUl.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 <br />
 Next we need to allocate the resources for the virtual machine. I recommend 4GB of RAM, 4 cores, and 50GB of storage if your system can handle it. Adjust the sliders to match the spec or google Windows Server 2022 system requirements to find the minimums if your system doesnt have the resources to spare. Note we can use these same settings for all the virtual machines for this lab: <br/>
-<img src="https://imgur.com/WRtNewT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/WRtNewT.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 <br />
 Click next a few times and finish, and we're ready to boot up our first virtual machine! Select "Windows Server 2022" from the left, and click "start" under the green arrow in the top center of the screen. Now we can run through the Windows Server install just like installing any other OS. If you have never done it before don't worry we're going to do it together:  <br/>
-<img src="https://imgur.com/eMJqtu4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/eMJqtu4.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 <br />
  Click next, and install and the installer will start running. The next step is important we need to select the second option from the list called "Windows Server Standard Evaluation (Desktop Experience)" otherwise the server won't include a graphical user interface and we will have to interact with it only through the command line.:  <br/>
-<img src="https://imgur.com/clX0RD3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/clX0RD3.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 <br />
 Click next, agree to the EULA and select Custom install, then select next again and let it do its thing. This will take a couple of minutes so be patient. :  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=".png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 <br />
 :  <br/>
-<img src=".png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=".png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 
 <!--
