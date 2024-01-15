@@ -16,12 +16,12 @@ In this guide we're going to walk throught how to create an Active Directory hom
 <p align="center">
 First we are going to download a few things <a href="https://www.virtualbox.org/" target="_blank">Virtual Box</a>
 , <a href="https://info.microsoft.com/ww-landing-windows-server-2022.html" target="_blank">Windows Server 2022 ISO</a>
-, and  <a href="https://www.microsoft.com/en-us/software-download/windows10" target="_blank">Windows 10 Pro ISO</a>. On the Windows Server link just fill up the form and click download, and on the Windows 10 link make sure you select the "Create Windows 10 installation media" option. Once we have everything downloaded we can run the Virtual Box installer. Next, were going to run the "Media creation tool" that we downloaded from the windows 10 link. Hit accept on the EULA and on the next screen make sure you select "Create installation media": <br/>
+, and  <a href="https://www.microsoft.com/en-us/software-download/windows10" target="_blank">Windows 10 Pro ISO</a>. On the Windows Server link just fill up the form and click download, and on the Windows 10 link make sure you select the "Create Windows 10 installation media" option. Once we have everything downloaded we can run the Virtual Box installerand install it on our computer. Next, were going to run the "Media creation tool" that we downloaded from the windows 10 link. Hit accept on the EULA and on the next screen make sure you select "Create installation media": <br/>
 <img src="https://imgur.com/XuAxpYS.png" height="50%" width="50%" alt="Installation Steps"/>
 <br />
 <br />
-Click next a few times then select ISO file when you get to the "choose which media to use" section:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Click next a few times then select ISO file when you get to the "choose which media to use" section. Once we have created the Windows 10 ISO were ready to start setting up our virtual machines. Open up Virtual Box if you don't have it running already and select "new" under the blue star icon in the top middle of the screen. Name the virtual machine "Windows Server 2022", select the ISO for the server from your downloads folder, and click the "Skip Unattended Installation" box. It should look like this:  <br/>
+<img src="https://imgur.com/fO4eMUl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
