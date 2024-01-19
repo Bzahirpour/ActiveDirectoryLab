@@ -40,7 +40,7 @@ Click next, agree to the EULA and select Custom install, then select next again 
 <img src="https://imgur.com/wizaw0U.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 <br />
-:  <br/>
+I am still in the process of writing this guide and hope to finish it soon!:  <br/>
 <img src=".png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 
